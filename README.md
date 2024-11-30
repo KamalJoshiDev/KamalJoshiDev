@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I think I am good at learning new technologies quickly**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
