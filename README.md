@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamaljoshidev&label=Profile%20views&color=0e75b6&style=flat" alt="kamaljoshidev" /> </p>
 
-- 🔭 I’m currently working on **Social Media App**
+- 🔭 I’m currently working on **Decentralized Academic Certificate Verification System**
 
 - 🌱 I’m currently learning **React Native, Docker, AWS, Kubernetes**
 
