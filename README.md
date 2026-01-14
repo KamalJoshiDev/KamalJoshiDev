@@ -7,8 +7,8 @@ MERN Stack Developer • MCA Student • India
 ---
 
 ### 👨‍💻 About Me
-I am a passionate MERN Stack Developer focused on building practical, scalable web applications.  
-Currently preparing for software engineering roles and strengthening my full-stack skills.
+ I am a passionate MERN Stack Developer focused on building practical, scalable web applications.  
+ Currently preparing for software engineering roles and strengthening my full-stack skills.
 
 ---
 
