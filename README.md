@@ -28,7 +28,7 @@ MERN Stack Developer • MCA Student • India
 
 ### 🛠 Tech Stack
 **Frontend:** React, JavaScript, HTML, CSS, Tailwind  
-**Backend:** Node.js, Express  , SpringBoot
+**Backend:** Node.js, Express, SpringBoot
 **Database:** MongoDB, MySQL 
 **Tools:** Git, GitHub, Docker, Postman, Linux
 
