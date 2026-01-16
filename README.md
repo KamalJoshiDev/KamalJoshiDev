@@ -36,7 +36,7 @@ MERN Stack Developer • MCA Student • India
 
 ### 🔗 Profiles & Contact
 - **Email:** kamal19111210@gmail.com  
-- **LinkedIn:** [https://www.linkedin.com/in/your-linkedin-username ](https://www.linkedin.com/in/kamaljoshi-dev/) 
-- **LeetCode:** [https://leetcode.com/your-leetcode-username ](https://leetcode.com/u/nI4gkwNarW/) 
+- **LinkedIn:** (https://www.linkedin.com/in/kamaljoshi-dev/) 
+- **LeetCode:** (https://leetcode.com/u/nI4gkwNarW/) 
 
 ---
